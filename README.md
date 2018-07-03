@@ -1,11 +1,7 @@
-# Formula-1
+# Formula 1 + Data Science
 
-### A machine learning project to create an algorithm to predict Formula 1 driver rankings based on 2015 and 2016 race results.
+### This respository consists of several projects where I have applied data science to various Formula 1 topics.
 
-#### Data
-
-1. Kaggle Dataset: https://www.kaggle.com/cjgdev/formula-1-race-data-19502017/
-2. FIA Event & Timing information: https://www.fia.com/events/fia-formula-one-world-championship/season-2017/eventtiming-information-19 (Sample) 
-2. Overtaking Database: http://cliptheapex.com/
-3. Tyre Usage: https://www.pirelli.com/
-
+#### 1. Binary classify race finish status of drivers at each race of a F1 season
+#### 2. Hierachical clustering of drivers' race strategies
+#### 3. Analytics of race laptimes and tyre degradation profiles
